@@ -77,4 +77,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 X handle - https://x.com/curious_vaibhav 
-Project Link: [[https://github.com/your_username/hollywood-dialogues-generator](https://github.com/your_username/hollywood-dialogues-generator)](https://vaibhav-vj.github.io/Hollywood-Dialogues-Generator/)
+Project Link: https://vaibhav-vj.github.io/Hollywood-Dialogues-Generator/
