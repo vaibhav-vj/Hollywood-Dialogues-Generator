@@ -20,7 +20,7 @@ Welcome to the Hollywood Dialogues Generator! This project showcases a simple Ja
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo https://vaibhav-vj.github.io/Hollywood-Dialogues-Generator/ 
 
 ## Installation
 
@@ -76,6 +76,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
-
-Project Link: [https://github.com/your_username/hollywood-dialogues-generator](https://github.com/your_username/hollywood-dialogues-generator)
+X handle - https://x.com/curious_vaibhav 
+Project Link: [[https://github.com/your_username/hollywood-dialogues-generator](https://github.com/your_username/hollywood-dialogues-generator)](https://vaibhav-vj.github.io/Hollywood-Dialogues-Generator/)
